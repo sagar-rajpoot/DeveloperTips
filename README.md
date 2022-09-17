@@ -9,10 +9,9 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 https://www.youtube.com/watch?v=8X4u9sca3Io
 
 # Tip2 - AWS CLI
-
 Aws Cli Need to have on system for Connecting to AWS via Boto3 etc.
 on Mac you can install it via pip
-# pip install awscli
+*pip install awscli*
 
 Setting it up via below comannd ( and Provide Access key ID and Secret Access Key ) - 
 # Aws configure 
