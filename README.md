@@ -1,6 +1,9 @@
 # Project.DeveloperInfo
 DeveloperInfo have Useful info and Links
 
+# WSO2 Basic info- 
+https://www.youtube.com/watch?v=-TicJqTjq2M 
+
 # Tip1 SSH KEY
 SSH Key generation & connect Local Machine with Github - 
 
